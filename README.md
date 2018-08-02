@@ -1,4 +1,6 @@
-This folder contains the following drills and projects, sorted numerically by the unit number (which means they're mostly listed in the order I built them):
+THINKFUL DRILLS AND PROJECTS
+
+This folder contains the following drills and small projects completed for the Thinkful Data Science bootcamp, sorted numerically by the unit number (which means they're mostly listed in the order I built them).  The early drills (dating back to April 2018) do not reflect my current level of understanding, and none of them are as polished or comprehensive as my Stylometer app (January 2018) or my Thinkful capstone projects.  But they do demonstrate some idea of types of topics I've covered and my general work habits.
 
 ** 2.1.8 Preparing a Dataset for Modeling.ipynb **
 Cleaning, exploration, and some interesting feature engineering on a set of Uber NYC pickup data
